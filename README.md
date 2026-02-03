@@ -1,3 +1,7 @@
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+Note: As of Febuary 2, 2026 all of this replaced with [Nexus](https://www.sonatype.com/products/sonatype-nexus-repository). Since originally creating this our needs changed from needing just a container registry cache to need an aptitude package cache and much more.
+
 # aio-harbor-registry-cache
 
 ## Overview
